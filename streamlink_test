@@ -1,0 +1,3 @@
+#!/bin/bash
+
+streamlink https://www.earthcam.com/usa/newyork/empirestatebuilding/?cam=esb37 720p
